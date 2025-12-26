@@ -97,7 +97,7 @@ if [ "$workstation" = true ]; then
         org.apache.directory.studio
         org.darktable.Darktable
         org.freecad.FreeCAD
-        org.fritzing.Fritzing
+        # org.fritzing.Fritzing
         # org.gnome.Boxes
         org.gnome.seahorse.Application
         org.inkscape.Inkscape
